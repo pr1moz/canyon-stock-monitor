@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pr1moz/canyon-stock-monitor/issues"
   },
-  "homepage": "https://github.com/pr1moz/canyon-stock-monitor#readme"
+  "homepage": "https://github.com/pr1moz/canyon-stock-monitor#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
