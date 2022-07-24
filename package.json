@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/pr1moz/canyon-stock-monitor#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "jsdom": "^20.0.0"
   }
 }
