@@ -1,0 +1,24 @@
+{
+  "name": "canyon-stock-monitor",
+  "version": "1.0.0",
+  "description": "A monitor for bike stock on the Canyon website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr1moz/canyon-stock-monitor.git"
+  },
+  "keywords": [
+    "canyon",
+    "stock",
+    "monitor"
+  ],
+  "author": "pr1moz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pr1moz/canyon-stock-monitor/issues"
+  },
+  "homepage": "https://github.com/pr1moz/canyon-stock-monitor#readme"
+}
